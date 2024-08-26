@@ -19,14 +19,14 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    padding: 30px 5%;
 }
 
 .logo{
     cursor: pointer;
 }
 
-.nav-links{
+.nav-links {
     list-style: none;
 }
 
